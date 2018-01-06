@@ -1,0 +1,2 @@
+UPDATE: FIX SQL INJECTIONS: add PDO, mysql_real_escape_string and maybe prepared statements?
+XSS: html_chars!
